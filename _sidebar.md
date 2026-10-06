@@ -1,3 +1,3 @@
 - [悟空](/)
-- [作品](README)
-- [关于](about)
+- [作品](README.md)
+- [关于](about.md)
