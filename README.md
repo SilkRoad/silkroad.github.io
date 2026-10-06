@@ -22,4 +22,4 @@
 
 ## 投资
 
-> * ### [投资项目](/Stocks Investment/)
+> * ### [投资项目](/Invest/)
