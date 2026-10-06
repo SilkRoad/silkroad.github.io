@@ -23,3 +23,5 @@
 ## 投资
 
 > * ### [投资项目](/Invest/)
+> * #### [股票投资](/Invest/Stocks/README.md)
+> * #### [域名投资](/Invest/DomainNames/README.md)
