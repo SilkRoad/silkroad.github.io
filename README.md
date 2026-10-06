@@ -20,4 +20,6 @@
 > * ### [Scratch编程](/scratch/)
 
 
+## 投资
 
+> * ### [投资项目](/Stocks Investment/)
